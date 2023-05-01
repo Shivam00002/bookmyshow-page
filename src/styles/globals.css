@@ -116,7 +116,7 @@ a {
   border-bottom: 1px solid;
 }
 
-.nav-logo {
+#nav-logo {
   margin-left: 5vw;
   cursor: pointer;
 }

@@ -16,8 +16,8 @@
   }
   #parent div img {
     border-radius: 10px;
-    width: 100%;
-    height: auto;
+
+
     transition: 0.5s all ease-in-out;
   }
   
