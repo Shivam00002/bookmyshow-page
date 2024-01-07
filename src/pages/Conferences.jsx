@@ -10,6 +10,7 @@ const Conferences=()=>{
         </div>
         </>
     )
+
 }
 
 export default Conferences
