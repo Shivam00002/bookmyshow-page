@@ -15,6 +15,7 @@ const Navbar =()=>{
             <div id="nav-logo"  className={!isOpen ? "my-logo-open" : "my-logo-close"}>
 
 
+
                 <Image src="https://res.cloudinary.com/admitad-gmbh/image/upload/h_0.5,f_auto/ixaa8tyj24yv45cmgysl.png" height="33" width="95" alt="nav-logo"/>
             </div>
             <div className="menu-button" onClick={toggleMenu}><MenuOutlined  className="menu"/></div>
