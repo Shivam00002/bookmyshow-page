@@ -9,6 +9,7 @@ const Navbar =()=>{
 
     const toggleMenu =() =>{setIsOpen(!isOpen)}
 
+
     return (
         <>
         <div className="navbar" id="nav-menu">
