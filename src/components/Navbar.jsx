@@ -13,6 +13,7 @@ const Navbar =()=>{
     return (
         <>
 
+
         <div className="navbar" id="nav-menu">
             <div id="nav-logo"  className={!isOpen ? "my-logo-open" : "my-logo-close"}>
 
